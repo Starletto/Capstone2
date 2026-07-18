@@ -23,7 +23,7 @@ Proyek ini dikerjakan dengan alur kerja sebagai berikut:
 5. **Membagi Data:** Melakukan *train-test split* (80% training, 20% testing).
 6. **Data Preprocessing:** 
    - Menghapus data outlier
-   - Encoding fitur kategorikal `ocean_proximity` (One-Hot/Ordinal).
+   - Encoding fitur kategorikal `ocean_proximity`
 7. **Training Model:** Melatih algoritma **Random Forest Regressor**.
 8. **Evaluasi Model:** Mengukur performa menggunakan berbagai metrik regresi.
 9. **Hasil:** Menarik kesimpulan bisnis dan rekomendasi.
